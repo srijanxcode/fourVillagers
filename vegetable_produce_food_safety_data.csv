@@ -1,0 +1,101 @@
+Vegetable,Weather Conditions,pH Level,Freshness Level,Storage Value,Harvest Date,Yield Quantity,Pest Control Methods,Nutrient Levels,Compliance Status,Inspection Date,Regulatory Body,Safety Certification
+RED CABAGE,Mild & Wet,6.7,Very Fresh,Good condition,2015-07-13,1.2,Pesticides,Low,Compliant,2015-07-28,Food and Drug Authority,Certified
+Kohlrabi,Moist,6.6,Good,Good,1966-07-20,1.28,Organic,High,No,1966-07-20,California Department of Food and Agriculture,Not Certified
+White onion,Sunny weather,7.4,Fresh,Stored at room temperature,1959-05-26,0.257,Organic Pesticides,Very High,In Compliance,2020-06-13,Food and Drug Authority,Certified
+Carrot,sunny,6.8,fresh,Fresh,2022-11-15,1.062,chemical pesticides,high,Compliant,2023-05-09,Food and Drug Administration (FDA),Yes
+Celery,Cool,6.3,Average,Good,2021-01-14,0.322,Insecticides,Low,Compliant,2021-01-14,Food and Drug Administration,Compliant
+Banana,Hot,5.8,Fresh,Stored in a cellar,1978-05-14,0.86,Pesticides,Low,Not Compliant,2015-06-17,None,Not Certified
+Broccoli,Sunny,7.0,very fresh,Good,1987-08-16,0.08,No pesticide,good,Yes,1987-08-01,USDA-FSIS,Certified
+CUCUMBER,fair,6.6,Fresh,Good,1998-08-06,0.415,Organic,Medium,Compliant,1998-08-05,Food Safety and Inspection Service (FSIS),Yes
+Yellow onions,Sunny,6.5,Very Fresh,Fresh,1988-03-15,1.04,Herbal,High,Yes,2011-04-18,Department of Agriculture,Yes
+Cucumber,Normal,7.6,Very Fresh,Very poor,2021-01-07,5.24,Natural pest control,Rich,Compliant,2021-02-23,Food and Drug Administration,Yes
+Broccoli,Hot,8.45,Fresh,Safe for Storage,1991-01-04,0.9,Fumigation,Low,Meets safety standards,1989-07-19,FDA,Certified
+Squash,Temperate,6.7,Good,Good storage condition,1992-10-26,5.97,Organic pest control,Balanced,Compliant,2015-08-25,FDA (Food and Drug Administration),Certified
+okra,sunny,5.8,very fresh,good,2021-01-28,5.8,Neem Oil,Rich,Compliant,2021-02-27,FDA,Certified
+Cucumber,optimal,6.7,Very Fresh,Fresh,2021-08-23,5.75,manually,High,Compliant,2021-08-19,Food Safety and Standards Authority of India (FSSAI),Yes
+Red cabbage,Dry,7.4,Very fresh,"Stored in a cool, dry place",2008-08-08,1.42,Organic pest control,Medium,Not Compliant,2009-05-08,State Food Safety and Standards Authority of India,Not Certified
+Cabbage,Normal,7.1,Fresh,Fresh,2018-04-08,2.213,Chemical pesticides and insecticides,Medium,Non-compliant,2018-10-17,Food Safety and Standards Authority of India,Non-certified
+Cabbage,Very Dry,5.72,Best Quality,Cool,2018-08-23,2.48,Pesticides,Low,Non-Compliant,2018-12-04,Food Safety and Standards Authority of India,Non-Certified
+potato,overcast,8.5,perfect,good,2021-11-04,1.05,biodiversity,High,Yes,2022-04-29,FDA,Yes
+Okra,sunny rainy,6.5,Fresh,fresh,2021-10-15,0.794,Trapping,Low,Non-compliant,2021-09-22,Food and Safety Authority,Safety certified
+Cauliflower,Sunny,7.5,Fresh,Fresh,1999-06-04,1.23,None,Poor,Compliant,2019-05-27,FSSAI,Compliant
+Watermelon,Normal,7.6,Previously Frozen,Excellent,1975-05-03,2.9,Spraying,Optimal,Fully Compliant,2018-09-28,FDA,Certified
+Peas,sunny,7.23,Best,Perfect,2023-01-25,2.25,Bio-Pesticides,High,Complies,2020-08-06,Food Safety and Standards Authority of India,Satisfactory
+Banana,Hot,6.5,Fresh,Room Temperature,2023-03-20,16.0,Pesticides,High,Yes,2022-05-01,Ministry of Agriculture and Cooperatives,Certified
+Artichoke,Normal,7.4,Good,Good,2021-06-06,0.97,Not Reported,Good,Meets Standards,2021-06-04,Food and Drug Administration (FDA),Certified
+Cabbage,Cool,6.7,Good,Very good,1995-03-27,1.05,Vermicomposting,High,Compliant,1995-03-16,Food and Drug Administration,Certified
+Garlic,Sunny,7.6,Fresh,Good,2015-12-09,0.184,None,Medium,Compliant,2016-06-18,Food Safety Authority - FSA,Certified
+broccoli,Sunny,6.0,Good,good,1967-03-20,0.846,Chemical (Insecticides and pesticides),High,Non-compliant,2019-01-23,Food and Drug Administration,Safe
+Radicchio,Dry,7.1,Fresh,Storage,2017-01-20,0.198,Chemical,Medium,Uncompliant,2017-10-14,FDA,Grade A
+Yellow tomato,Sunny,7.4,Good,Refrigerate and use within 1 week,2021-01-10,1.75,Organic,Good,1,2021-01-10,The Department of Agriculture and Food,Certified
+Celery,Irrigation,7.8,Fresh,Refrigeration,2018-04-17,1.16,Organic (No use of pesticides),Very Loose,Compliance,2018-04-16,FDA,Yes
+lettuce,Cool,7.5,Fresh,In refrigerated condition,2022-01-11,6.0,Insecticides,Medium,Complied,2021-12-21,Food and Drug Administration (FDA),Certified
+Broccoli,Dry,7.0,Very Fresh,Good,2019-08-12,2.12,Integrated Pest Management (IPM),High,Meets Standards,2019-08-13,USDA,Certified
+BROCOLINI,sunny,7.3,fresh,Fresh,2020-08-19,1.521,Organic,High,Compliant,2020-08-09,Food and Drug Administration (FDA),Safe
+Parsnip,Sunny,6.5,Fresh,"Store in a cool, dry place",2021-12-28,0.9147,None,High,Compliant,2021-01-28,Hazard Analysis Critical Control Points (HACCP),Certified
+Lettuce,irrigated,6.2,good,cool,2018-03-21,1.11,chemical,High,Compliant,2018-01-19,Food and Drug Administration (FDA),Yes
+Celery,Severe Drought,7.1,Good,Good,2021-12-06,0.964,Natural Predators,Low,Non-Compliant,2021-08-13,Food Safety and Standards Authority of India,S
+Cabbage,Wet,8.04,Good,Fresh,2021-07-09,2.68,Pesticides,Low,Non-Compliant,2021-03-22,Food and Drug Administration,Safe
+Broccoli,Rainy,7.1,Excellent,Very Good,1994-09-05,1.657,Traps,Low,Compliant,2019-11-29,Food and Drug Administration,Compliant
+Tomato,Hot,7.7,Fresh,Room Temperature,1985-01-18,1.5,Biological control,Levels of nutrients in the soil,Compliant,2016-04-05,Food and Drug Administration,Certified
+Potato,Normal,6.7,Excellent,Fresh,2023-02-08,1.43,No pest control,high,Safe,2022-11-05,Department of Agriculture,Not Certified
+Broccoli,Cool (below 45°F),7.2,Very Fresh,Cool and dry,1974-10-04,4.0066,Spraying,Low,Non-compliance,2021-03-01,Food and Drug Administration,Non-certified
+Red pepper,Hot & Humid,8.1,Average,Can be stored for a long time,1998-03-06,0.84,None,High,Compliant,2012-04-01,FDA,Yes
+radish,dry,7.5,Good,Refrigerate,1984-10-12,0.23,Spray,Low,Non-Compliant,1985-11-13,FDA,Certified
+Banana,Hot and dry,5.2,Very Fresh,Good,1905-02-15,23.265,Improved Chemical Control,Medium,Non-Compliant,2013-05-09,Food and Drug Administration,Not Certified
+cabbage,Normal,7.0,Best quality,Normal,2022-01-05,4.8,Pesticides,High,Compliant,2022-02-28,Food and Drug Administration,Yes
+Garlic,Sunny,6.5,very fresh,cool,2021-11-12,0.29,Organic,High,Meets Standards,2022-11-07,Food Safety and Standards Authority of India,Certified
+Red Cabbage,Hot,6.3,Average,Good,2015-03-03,0.7279,Chemical Pesticides,High,Non-compliant,2014-05-05,Food Safety and Standards Authority of India (FSSAI),Certified
+broccoli,Warm - no freezing temperature,6.2,Spoiled,Stored in a refrigerator,2021-06-25,1.85,Chemical Pesticides,Low,Compliant,2021-05-25,Food and Drug Administration (FDA),Certified
+Zucchini,sunny,7.8,Fresh,Both,1998-03-16,0.6,Pesticide,Balanced,Not Compliant,1998-02-16,Department of Agriculture,Certified
+Tomato,Rainy,7.1,good,Good,1996-05-12,3.5,Chemicals,Suitable,Compliant,2022-05-12,Telangana Food Safety and Standards Authority,Yes
+Green Onions,Irrigation - Dry,7.0,Average,Good,1986-11-04,0.4881,Biological,High,Not Compliant,1986-07-28,FDA,Not Certified
+potatoes,Dry,6.8,Excellent,Cool,2023-02-20,30.0,Mechanical,Medium,Compliant,2023-02-14,"Department of Agriculture, Food and Rural Affairs",Certified
+Sweetcorn,normal,7.0,Fresh,Good,1991-11-24,166.0,Insecticides,Poor,Certified,1991-11-23,FSSAI,Certified
+Lettuce,dry,6.8,fresh,cold,1989-08-07,0.554,Pesticides,High,Yes,2019-04-02,Food Safety and Standards Authority of India,Yes
+Green Onion,Hot & Sunny,7.25,excellent,"Good for 1 to 2 weeks if stored in a cool, dry place",2023-04-04,1.75,Natural pest control,Medium,Compliant,2023-03-13,Food Safety Authority,Certified
+Broccoli,Sunny,5.8,Excellent,Fresh,1996-11-29,6.41,Pesticides,High,Compliant,2011-08-28,Food and Drug Administration,Certified
+carrot,"Hot, Drought",7.1,Average Quality,Good,1986-04-26,1.2,Insecticide,Medium,yes,2019-09-24,Pesticide Residue Analysis Lab,yes
+Green Bean,fair,5.2,fair,Fresh,2022-03-05,1.09,Organic,Low,Compliant,2022-02-27,Department of Agriculture,Certified
+Broccoli,Warm,6.9,Super Fresh,Excellent,2022-06-27,1.86,Organic,Medium,Compliant,2022-04-08,Food Safety and Standards Authority of India,Safety certified
+cucumber,rainy,8.46,normal,good,2021-01-03,2.79,sulphur,soil,in-compliance,2020-11-06,United States Department of Agriculture (USDA),Yes
+Potato,normal,6.2,Good,Good,1996-12-20,52.0,Biological,Balanced,Compliant,1996-01-06,Governmental Inspection Agency,Certified
+Potatoes,Normal,7.03,Good,Good,1997-04-02,12.0,Pesticides,Very Low,Compliant,2012-11-21,Food and Drug Administration,Certified
+Purple Long Bean (Snake Bean),Normal,6.9,Very Fresh,Good,1982-06-10,0.22,Organic,High,Not Compliant,2022-08-20,Food and Drug Administration (FDA),Not Certified
+Yacon,Hot and dry,7.1,Fresh,Good,2017-02-14,3.29,Organic,Moderate,Non-Compliant,2017-01-25,Food and Drug Administration,Non-Certified
+Potato,Dry,7.75,Average,Good,1998-09-25,32.0,Insecticide,High,Compliant,1998-07-16,USDA,Certified
+Broccoli,Sunny,6.6,fresh,Fresh,2020-02-18,1.16,Chemical Agents,Low,Compliant,2019-08-12,USDA,Certified
+Brussel Sprout,Dry,6.1,Fresh,Refrigerated,1998-10-02,1.34,Insecticides,High,Non-Compliance,1998-10-02,Food and Drug Administration (FDA),Not Certified
+Spinach,Hot,6.8,Very Fresh,Refrigerated,1971-11-02,0.542,Fumigation,High,Compliant,2019-06-06,FDA,Safe
+Artichoke,optimum,6.8,Pristine,3 days,2022-09-29,1.53,Natural pest control,Medium,Non-compliant,2022-09-20,District Food Safety Unit,Certified
+Broccoli,Hot/Dry,7.7,Very Fresh,Good,2022-12-18,1.403,Non-Chemical,High,Not Compliant,2022-12-18,Food Safety and Standards Authority of India,Yes
+Swiss Chard,Fair,6.8,Excellent,Cool,2020-05-01,1.91,Manual,High,Meets Requirements,2021-02-10,The United States Food and Drug Administration,Certified
+Cherry tomato,sunny,6.6,fresh,cool,1966-09-20,1.15,Pesticide,Medium,Compliant,2020-08-23,Qatar Agricultural and Livestock Company,yes
+Cabbage,cool & very dry,6.5,very fresh,Fresh,1978-08-14,1.109,Chemical Pesticides,Rich,Non-Compliant,2021-01-09,Food Safety and Standards Authority of India(FSSAI),Non-Certified
+Tomatoes,Hot and dry,7.7,Good,Good,1999-04-20,6.0,Organic,High,Non-compliance,1997-04-03,FDA,Not Certified
+Zucchini,Fair,7.3,fresh,Very good,1937-01-23,4.0,Integrated Pest Management,Medium,Compliant,2023-05-07,Food Safety and Standards Authority of India,Yes
+Cabbage,Clear,6.7,Perfect,Good,2023-02-07,1.3071,Integrated pest management,High,Compliant,2023-02-13,Food and Drug Administration (FDA),Certified
+Banana,Sunny,5.1,Good,Not frozen,2023-03-02,10.56,Chemical,Low,Non-compliant,2023-03-01,Food and Drug Administration (FDA),Not certified
+Beet,Hot,7.5,Super Fresh,Cool & Dry,2022-01-05,1.7,Pesticides,High,Compliant,2022-01-06,FSSAI,Certified
+Capsicum,Hot,8.23,Fresh,2 weeks,1990-10-28,1.5,Manual removal,None,Compliant,1990-01-02,USDA,Organic
+Radicchio,Sunny,6.3,fresh,Fresh,1970-11-04,0.9144,Herbal insecticides,Low,PASSED,2017-10-28,Food Safety and Standards Authority of India,SAFE
+Kohlrabi,cool & humid,7.1,Very good,excellent,2021-11-19,0.8,Organic,High,compliant,2021-12-03,The Food and Drug Administration,Certified
+watercress,optimal,7.09,fresh,Fresh,1919-07-19,1.43,Non-chemical,High,compliant,2022-04-15,Food and Drug Authority (FDA),certified
+Chayote,Normal - neither too wet nor too dry,6.2,Very Fresh,Fresh,2021-04-02,0.693,Organic,High,Compliant,2021-01-22,Department of Agriculture,Yes
+Cauliflower,clear,6.6,fresh,cool,1996-01-18,1.06,Traps,Balanced,Meets requirements,2005-12-15,U.S. Department of Agriculture (USDA),Certified
+Lettuce,Hot,7.5,Very fresh,Good,1900-01-01,3.39,Pesticides,High,Meets standards,2023-02-22,Women and Child Development Department,Certified
+Watermelon,hot & humid,7.4,good,Good,1974-12-11,7.65,Organic Manure,high,Compliant,2021-08-10,Food Safety and Standards Authority of India,Yes
+Opossum Ears,cloudy,5.1,high,good,2015-12-13,3.0,Organic pesticides,Medium,Yes,2021-12-19,United States Department of Agriculture,Organic
+broccoli,sunny,7.4,fresh,refrigerated,1999-08-19,0.8569,bio control,high,compliant,2011-03-13,Food and Drug Administration,true
+Carrot,Hot,7.1,Good,Cold,1979-08-09,1.71,Chemical pesticides,Rich,Complies,2021-08-19,Food Safety and Standards Authority of India,Certified
+Celery,Dry,7.0,Fresh,Fresh,1970-01-01,1.64,Pesticides,High,Not Complaint,1970-01-01,Department of Agriculture,Non-certified
+Kale,normal,7.0,Very Fresh,Fresh,2017-10-02,5.49,Farmers,High,Compliant,2017-09-11,FDA,Approved
+broccoli,fair,7.4,30.0,Fresh,2019-09-06,0.039,Spraying,High,Safe,2019-09-05,U.S. Department of Agriculture,Certified
+Cabbage,Sunny,6.89,Good,Good,1986-10-17,1.26,Pesticides,High,Compliant,2022-10-28,Food and Drug Administration,Compliant
+Bell Pepper,Sunny,6.9,Fresh,Good,1958-08-12,1.073,Manual,Medium,In Compliance,2020-02-26,Food and Drug Administration,Certified
+Cabbage,Rainy,6.5,Good,Spoiled,2020-06-01,1.8,Pesticides,High,Compliant,2020-06-02,Food and Drugs Board,Yes
+Tomato,Hot,8.1,Okay,Crisp,2019-03-15,2.0059,Biological,Rich,Certified,2021-02-03,Department of Agriculture,Certified
+pumpkin,hot & humid,5.5,Fresh,Keep in cool dry place,1907-12-04,1.68,Organic Pesticides,High,Non-Compliant,2019-10-17,FSSAI,Certified
+Broccoli,Dry,8.09,fresh,Fresh,1984-10-05,1.5,Chemical pesticides,High,Compliant,2015-03-25,Food and Drug Administration,Certified
+Tomato,Good,6.0,Fresh,Good,1986-02-01,1.2,Organic,High,Compliant,1986-01-01,USDA,Certified Organic
+Bell Pepper,Normal,6.9,1 - Excellent,Good,1997-07-25,0.145,Organic,Medium,High,1997-07-22,USDA,Certified Organic

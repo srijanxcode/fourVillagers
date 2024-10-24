@@ -1,0 +1,101 @@
+Product Name,Main Ingredient,Packaging Date,Shelf Life (days),Nutritional Information,Compliance Status,Packaging Type
+Ready to Eat Pulav,Basmati Rice,1909-09-11,15,"{'Amino acid (g)': '14.6', 'Carbohydrate (g)': '82.2', 'Cholesterol (mg)': '0', 'Energy (kcal)': '408', 'Fat (g)': '",Compliant,Transparent
+Kellogg's Corn Flakes,Corn,2019-02-22,365,"[{'#ATTACHED FILES#', '[]'}, {'Age Group (who can consume)', 'Adults'}, {'Alcohol', 'No'}, {'Carbohydrate (g)', 71.2}, {'Carbonated', 'No'}, {'Cholesterol (",Fully,Bag in Box
+Sweet & Sour Sauce,Soybean meal,1990-08-15,365,"{'Calories': 3.0, 'Total Lipid (fat)': 0.0, 'Cholesterol': 0.0, 'Sodium': 0.0, 'Total Carbohydrate': 0.7, 'Protein': 0",Complied,Bottle
+Ice Cream - Chocolate,Milk,1991-01-17,158,"['Energy', '175.0', 'Energy - kcal', '734.0', 'Protein', '6.1', 'Fat', '38.9', 'of which saturates', '24.5', 'Carbohydrate',",Compliant,Plastic
+CREAMY TOMATO RICE,Tomato,2023-02-15,0,Calories: 147 kcal              Protein: 4.1 g             Total Fat: 4 g              Sodium: 710 mg              Total Carbs: 23 g,Yes,BAG
+GREEN TEA,Green tea,2021-12-18,180,"{'Calories' : 1, 'Total Lipid (fat)' : 0, 'Cholesterol' : 0, 'Sodium' : 0, 'Carbohydrate (by difference)' : 0, 'Protein' : 0}",Compliant,Stand up pouch
+Nestle Milkmaid Instant Milk Powder 1kg,Skimmed milk powder,1903-10-25,120,"['Protein (g) : 35', 'Total fat (g) : 1', 'Carbohydrate (g) : 77', 'Calcium (mg) : 1220', 'Sodium (mg) : 486', '",Yes,Box
+Raw Banana Chips,Banana,2022-01-03,120,"['Water, 92.5 g', 'Energy, 200 kcal', 'Fat, 3.2 g', 'of which saturates, 1.7 g', 'Carbohydrate, 40.5 g', 'of which sugars,",Yes,Plastic
+Cornflakes,Corn,1981-09-17,180,"{'Protein': 1.5419999999999999, 'Total Lipid (fat)': 0.16999999999999999, 'Cholesterol': 0.1",Food safety regulations compliant,Box
+Mishry's Extra Hot Chilli Sauce 100ml,Water,1904-12-22,180,Nutritional Information per 100g,Compliant,Glass
+Maggi Masala Magic Noodles,refined wheat flour,2020-04-22,180,"[{'Carbohydrates': 74, 'Energy': 318, 'Fat': 3, 'Fibre': 0, 'Protein': 8, 'Sodium': 1.3}, {'Carbohydrates': 74",Compliant,Foil
+CHEESE SPICY SALAMI SLICED,CHEESE,1927-08-27,250,"[{'Key': 'Carbohydrates', 'Value': 1.5}, {'Key': 'Energy - kJ', 'Value': 299}, {'Key': 'Energy - kcal', 'Value': 72.06}, {'Key': 'Fat',",Compliant,Modified Atmosphere Packaging
+Milk,Milk,1907-03-10,4,"Sugar: 0.003 g, Protein: 3.6 g, Carbohydrate: 4.8 g, Total Fats: 3.4 g, Calories: 128 kcal, Cholesterol: 19.3 mg",Compliant,Glass Bottle
+Diet Kellogg's Corn Flakes,Corn,1923-03-26,300,"[{'key': 'Fat', 'value': '2.0g'}, {'key': 'Fibre', 'value': '1.3g'}, {'key': 'Sodium', 'value': '0.2g'}, {'key': 'Total Carbohydrate', 'value",Yes,Box
+"Eggs, boiled, hard",Egg,2022-06-07,15,"{'Total lipid (fat)': 11.5, 'Protein': 12.5, 'Water': 62.4, 'Carbohydrate by difference': 13.6}",Yes,Plastic bottle
+Sprouts,Sprouts,2020-07-20,21,"[{'key': 'Energy (kcal)', 'value': '214'}, {'key': 'Carbohydrate (g)', 'value': '38.5'}, {'key': 'Total Fat (g)', 'value': '8'}, {'key': 'Cholesterol",Compliant,Plastic Trays
+Pepperoni Pizza,Pizza,1970-11-24,65,"[{'Name of nutrient': 'Energy', 'Amount (kcal)': 271, 'Amount (kJ)': 1131}, {'Name of nutrient': 'Protein', 'Amount (g)': 15.0}, {'Name of nutrient':",Yes,Polypropylene
+Honey Chilli Potato,potato,2022-04-26,360,"[{'Key': 'Energy', 'Value': '218.0'}, {'Key': 'Protein', 'Value': '2.4'}, {'Key': 'Total Lipid (fat)', 'Value': '9.7'}, {'Key': 'Carbohydrate, by",Yes,Plastic
+Baked Crackers,wheat,2022-07-17,180,"[{'value': '25', 'unit': 'g', 'attr': 'Fat'},",Compliant,Vacuum Packaging
+MOUNTYS LITE MILK CHOCOLATE,Sugar,1999-10-22,365,"[{'Amount (g)': 26.1, 'Nutrient Name': 'Energy'}, {'Amount (g)': 0, 'Nutrient Name': 'Protein'}, {'Amount (g)': 0, 'Nutrient Name': 'Fat'}, {'Amount (g",Compliant,Foil
+Tropicana Pure Premium 100% Orange Juice,Orange,1921-04-08,20,"[{'key': 'Servings per container', 'value': '1'}, {'key': 'Serving size', 'value': '237 ml (8 fl oz)'}, {'key': 'Calories', 'value': '130'}, {'key': 'Calories from fat', 'value",Compliant,Carton
+Sweet & Sour Chilli,Chicken,1984-08-04,180,"[{'FoodCode': '10702', 'ServingSize': '100.0 g', 'ServingWeight_g': '100.0', 'Nutrients': [{'Attribute': 'Energy (kcal)', 'Value': '146",Compliant,Pouch
+Red Rose Tea Bag,Black Tea,2020-07-14,720,"[{'attribute': 'Energy', 'value': '20.0'}, {'attribute': 'Fat', 'value': '0.0'}, {'attribute': 'Saturates', 'value': '0.0'}, {'attribute': 'Sugars', 'value': '0.0'}, {'",Compliant,Foil
+JAMUNE PANAKAM,JAMUNE PANAKAM,2020-02-06,210,"[{'Name': 'Fat', 'Value': '0.0 g'}, {'Name': 'Carbohydrate', 'Value': '14.9 g'}, {'Name': 'Protein', 'Value': '0.0 g'}, {'Name': 'Energy', 'Value': '",Yes,Plastic
+Tangy Sweet and Sour Chilli Sauce,Water,1993-01-31,120,"[{'Name': 'Energy', 'Amount': '0.0'}, {'Name': 'Fat', 'Amount': '0.0'}, {'Name': 'Saturates', 'Amount': '0.0'}, {'Name': 'Sugars', 'Amount': '0.0'}, {'Name",Compliant,Bottle
+MAGGI 2 MINUTE NOODLES CORN CHOWDER,Corn,2020-04-23,240,"[{'Attribute name': 'Energy kJ', 'Amount (g)': 168},",Yes,Flexible Packaging
+Maggie Hot and Spicy Fish Flavoured Instant Noodles 200g,Refined wheat flour,2022-07-28,120,Per 100 g,Compliant,Foil
+Lays Nachos - Pani Puri Masala - 40gms,Corn,2020-03-23,240,"[{'key': 'Energy Kcal', 'value': '160.0'}, {'key': 'Protein g', 'value': '1.5'}, {'key': 'Total Lipid Fats g', 'value': '8.0'}, {'key': 'Carbohydr",Compliant,Pouch Pack
+Wavy Lays,Potato,2020-06-11,180,"100 g of product contains 470.0 Kcal energy, 2.0 g carbohydrates, 1.0 g protein, 32.0 g fat, 2.0 g ash, 1.0 g carbohydrates, 0.",True,Paper
+VADILAL KHICHDI MIX,wheat,1901-08-01,180,"[{'key': 'Energy kcal', 'value': 205.0}, {'key': 'Energy kJ', 'value': 854.0}, {'key': 'Fat (g)', 'value': 0.0}, {'key': 'Saturated fat (",Compliant,PP
+French Fries,Potato,1937-06-06,300,"[{'name': 'Energy', 'amount': 1080.0, 'unit': 'kJ'}, {'name': 'Energy', 'amount': 257.0, 'unit': 'kcal'}, {'name': 'Fat', 'amount': 14.0",Certified,Bag
+"Mrs. Maggi Masala Magic Noodles, 10 Pack",Atta,1912-02-12,365,"[{'key': 'Energy', 'value': '414 kcal'}, {'key': 'Carbohydrate', 'value': '90.40 g'}, {'key': 'Protein', 'value': '5.90 g'}, {'key': 'Total Fat',",Yes,Pouch
+Cold Coffee (Tetra Pak) - 200 ml,Milk,1920-01-01,21,"Calories (kcal) : 70.626, Carbohydrate (g) : 6.4879, Protein (g) : 4.257, Sodium (mg) : 81.273, Fat (g",Compliance,Carton
+CHOCOLATE CHIP COOKIES,"Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid)",1971-09-08,270,"[{'Name': 'Serving Size (g)', 'Amount': '30.0'}, {'Name': 'Total Carbohydrate (g)', 'Amount': '28.0'}, {'Name': 'Sugars (g)', 'Amount': '15.0'}, {'Name",Compliant,Bag
+Pasta,Wheat,1908-12-11,55,Nutritional information per 100g,Fully Compliant,Aluminium foil
+SATSUMAS,Mandarin orange,1909-01-02,45,"{'Amino Acids': [10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,",compliant,Plastic
+Potato Chips,Potato,1920-11-29,300,Calories: 520\nFat: 37.5 g\nSaturated Fat: 12.5 g\nCholesterol: 6.0 mg\nSodium: 1520 mg\nCarbohydrates:,Non-compliant,Can
+Munching Chips - Cheese & Onion,Maize,2022-07-18,90,"['Fat (g)', '3.7', 'Saturated Fat (g)', '0.8', 'Total Carbohydrates (g)', '39.5', 'Sugars (g)', '0.5', 'Protein (g)', '2.9', '",Compliant,Flexible Packaging
+Mazza Zinger Burger,Chicken,2022-02-15,2,"[{'key': 'Energy (kcal)', 'value': '222.0'}, {'key': 'Protein (g)', 'value': '17.6'}, {'key': 'Carbohydrate (g)', 'value': '31.6'}, {'key':",Yes,Plastic
+Fresh Frozen Breaded Fish Fillet,Fish fillet,1996-07-22,180,Calories : 120.0\nProtein : 22.0\nTotal Lipid (fat) : 1.0\nTotal Carbohydrate : 0.0\nCholesterol : 45.0\nSodium,TRUE,Paperboard
+Unsalted Whole Cashew Nuts,Cashew Nuts,1911-11-17,120,"[{'Key': 'Energy (kJ)', 'Value': '2231'}, {'Key': 'Energy (kcal)', 'Value': '532'}, {'Key': 'Fat (g)', 'Value': '48.4'}, {'Key': 'Saturates (g",Compliant,Plastic
+Littl's Classic Milk Chocolate Bar,Cocoa,2021-05-14,680,Nutritional Information per 100 g,Compliant,Foil
+Sulaiman Dates,Dates,2020-05-11,90,"{\n  ""total_carbohydrates"": 2.4,\n  ""carbohydrates_by_dietary_fiber"": 2.4,\n  ""total_sugars"": 2.4,\n  ""protein"": 0",Compliant,Plastic
+SUNFEED CERIAL+ POLISHER RICE 1KG,Rice,2021-01-03,365,Nutritional Information per 100gms,Compliant,Pouch
+Lays Flavour Crunch Chilli & Lime,Maize,2020-07-21,30,"['Fat, Total (g)', '0.0', 'Energy (Kcal)', '402.0', 'Energy (KJ)', '1682.0', 'Carbohydrate, total (g)', '71.1', 'Carbohy",fulfilled,Flexible packaging
+Kellogg's Cornflakes,Whole Grain Corn,2022-01-13,325,"{'Fat': '0.0 g', 'Calcium': '247 mg', 'Carbonate': '0.0 g', 'Protein': '6.0 g', 'Energy': '940 kcal', 'Fiber': '2.5 g', 'Ch",Compliant,Bag
+Zeera Methi Veg Pulao,Rice,1952-12-08,30,"430kcal, 35gm Fat, 4gm Sodium, 53gm Carbohydrate, 1gm Fiber, 2gm Protein, 0.0mg Cholesterol, 20gm Sugar",Compliant,Bag
+Egg Noodles,Wheat,2021-05-24,240,"[{'key': 'Energy', 'value': '332.0'}, {'key': 'Fat', 'value': '1.8'}, {'key': 'Saturated Fat', 'value': '0.4'}, {'key': 'Carbohydrate', 'value': '",Compliant,Polyethylene bag
+"Cookies, Biscuits & Crackers",Wheat,1921-10-23,75,"Quantity per 100 g (Quantity per 100 g of the product): 110 g, Energy (kJ) (Energy in 100 g of the product): 1812 kJ, Protein (g) (Protein in 1",Compliant,Aluminium Foil
+Maggi Masala Magic Noodles,Noodles,1911-04-30,60,{,Compliant,Laminated
+Eggless Vanilla Ice Cream,Milk,1995-05-12,3,"{'Added Sugar': 5.2, 'Carbohydrate': 14.1, 'Cholesterol': 57.7, 'Dietary Fiber': 1.6, 'Monounsaturated Fat': 12.3, 'Protein",Compliant,Carton
+Chocobakes,Wheat,1902-10-04,121,Nutrition Information Per 40 g,Yes,Flexible Packaging
+Sunfeast Yippee Noodles - Masala,Refined Wheat Flour,1907-10-05,200,NUTRITIONAL INFORMATION PER 100 g SERVING,Compliant,BAG
+"BIG FOODS JUICE-MAIDEN'S ORANGE SODA, 330 ML",Orange Juice,1968-12-18,25,**Per 100 g**\,Yes,Bottle
+CUCINELLA PICCOLI CROSTINI BELLOSALUDO,flour,2022-04-07,180,"[{'energy': '193.0',",Food Safe,Plastic
+Chicken Tikka Masala,Chicken,1921-10-12,4,"[{'Name': 'Energy', 'Amount': '1129.0'}, {'Name': 'Fat', 'Amount': '66.0'}, {'Name': 'of which saturates', 'Amount': '13.2'}, {'Name': 'Carbohydrate',",Compliant,Plastic
+Tropicana Trop50 Pure Premium Orange Juice,Orange juice,2022-08-31,110,Nutrition Facts,Compliant,Bottle
+Biscuit,Flour,2022-09-01,180,"['Sugar', 15.65, 'Fat', 19.0, 'Cholesterol', 1.3, 'Calories', 445]",Compliant,Aluminium
+Sour Cream & Onion Crackers,Wheat,1951-07-18,1000,"[{'Amino Acid (g)': '7.7', 'Carbohydrates (g)': '43.5', 'Cholesterol (mg)': '0', 'Energy (kcal)': '347', 'Fat (g)':",Yes,Paperboard
+Kellogg's Special K Cereal,Rice,2021-07-13,75,Nutrition Information,Yes,Bag
+Mulna Dhokla 200 g,Rice Flour,1906-07-23,30,Nutritional Information per 100 g,Compliant,Plastic
+MINISTRY OF FOOD PROCESSING INDUSTRIES - EGG NOODLES (250 GRMS),Flour,1903-12-01,180,"Energy: 398.89 kcal, Calories from Fat: 67.7 kcal, Fat: 7.30 g, Protein: 10.80 g, Carbohydrate: 66.90 g, Cholest",Safe,Pouch
+Whipped Cream,Sweetened Condensed Milk,2022-04-24,10,"{'Fat': '5.4', 'Carbohydrates': '5.8', 'Protein': '0.2', 'Energy': '51.0'}",Compliant,Tin Can
+Bread,Wheat,2021-02-10,22,{,Compliant,Carton
+salad dressing,soybean oil,1990-04-10,75,[{,True,Glass
+Potato Chips,Potato,1971-03-18,180,"[{'quantity': 1, 'unit': 'kcal', 'description': 'Energy'}, {'quantity': 0, 'unit': 'g', 'description': 'Fat'}, {'quantity': 0, 'unit': 'g', 'description': 'Saturates'}, {'quant",Compliant,Packaging material used: Plastic
+Jalapeo Slices,jalapeño peppers,2022-02-08,180,"[{'name': 'Calories', 'quantity': 3.0}, {'name': 'Total Carbohydrate', 'quantity': 0.5}, {'name': 'Protein', 'quantity': 0.5}, {'name': 'Total Fat', 'quantity",Pass,Vacuum Sealed
+Chicken Tikka Masala,Chicken,2022-07-03,90,"[{'name': 'Energy (kJ)', 'quantity': '591.0'}, {'name': 'Energy (kcal)', 'quantity': '141.0'}, {'name': 'Fat (g)', 'quantity': '5.4'}, {'name': '",Compliant,TRAY
+Corn Flakes,corn flour,2020-03-28,90,"[{'key': 'Energy (kJ)', 'value': '1126'}, {'key': 'Energy (kcal)', 'value': '268.4'}, {'key': 'Total Fat (g)', 'value': '1.6'}, {'key': 'Cholester",Yes,Flexible Packaging
+Fruit Cake,Cake,2018-06-18,60,"[{'key': 'Fat ', 'value': '3.4'}, {'key': 'Sodium ', 'value': '0.0'}, {'key': 'Total Carbohydrate ', 'value': '37.0'}, {'key': 'Sugars ', 'value': '",Compliant,Box
+Pearl Milk,Milk,1906-08-05,24,"[{'key': 'Fat', 'value': '8.4'}, {'key': 'Carbohydrates', 'value': '12.1'}, {\",Compliant,Carton
+Nestle Fruit Chutneys Mixed Fruit,Mixed Fruit,1910-01-18,365,"['[{“name”: “Energy”, “value”: “91.0 kcal”, “unit”: “kcal”}, {“name”: “Fat”, “value”: “0.0 g”, “unit”: “g”}, {“name”: “",Compliant,Glass
+MAYO KETCHUP,"Tomato, Corn Syrup, Water, High Fructose Corn Syrup, Distilled Vinegar, Salt, Contains less than 2% of: Paprika, Xanthan Gum, Spice, Oleoresin Paprika, Garlic Powder, Onion Powder, Natural",1973-12-11,365,"Per 1 tbsp: 50 cal, 0g fat (0g sat), 10mg sodium, 12g carbs, 0g fiber, 10g sugar, 0g protein",Compliant,Glass
+Haldiram's Vegetable Salad,Vegetables,2020-09-11,15,"Total Fat (g) : 0.1,Sodium (mg) : 150,Total carbohydrate (g) : 4.2,Protein (g) : 0.6,Fiber (g) : 0.5,Calcium (",compliant,Pouch
+"Kavina 100% Pure Coconut Oil, Cold Pressed, 1 Litre",Coconut Oil,2022-06-07,924,Nutritional information per 100 g,Complies with FSSAI regulations,Bottle
+Corn Flakes,Corn,1977-01-02,45,11g,Compliant,Flexible Packaging
+Biscuit Nestle Digestive Whole Wheat,Whole wheat flour,1903-01-23,365,{,"[True, False]",Flexible packaging
+"Nissin Cup Noodle, Instant Noodle Soup, Chicken Flavour, 85g",Dehydrated Chicken,2023-03-20,180,"{u'Serving Size': u'206 g', u'Servings Per Container': u'1', u'Calories': u'316.0', u'Fat Calories': u'8.0', u'Total Fat': u'8.0 g', u'",Met,Cup
+Mango Chutney,Mango,2022-01-11,365,Nutrition Information (per 100g),Complies,Glass
+TOMATO KETCHUP (1L),Tomato,1921-02-20,360,Nutritional Value per 100g,Compliant,Plastic
+"Frito-Lay, Cheetos, Extruded Snacks, Flamin' Hot, Cheese Flavored, 3.5 Ounce (Pack of 12)",Corn,2021-06-14,105,"['Serving Size', '21 g', '', '', '', '', '', 'Calories', '140', 'Calories from Fat', '70', 'Total Fat', '7.0 g', 'Saturated Fat', '2.0 g', 'Trans Fat', '0.0",Compliant,Pouch
+WONDERWALL,EXTENDED DURUM WHEAT FLOUR,1908-03-16,30,"[{'Key': 'Fat', 'Value': '1.1 g'}, {'Key': 'Saturated', 'Value': '0.4 g'}, {'Key': 'Trans', 'Value': '0.0 g'}, {'Key': 'Cholesterol', 'Value': '0.0",Compliant,Vacuum Sealed
+Nutritious Egg No.N-20g,Egg,1921-10-16,30,"[{'Name': 'Protein', 'Value': 5.0}, {'Name': 'Carbohydrate', 'Value': 0.0}, {'Name': 'Fat', 'Value': 5.0}, {'Name': 'Fibre', 'Value': 0.0",Compliant,Paper
+Nestle Creamy Crunch Chocolate Spread,Pure Cocoa,1949-01-17,365,Per 100g,Compliant,Glass
+Tangy Lemon Flavoured Instant Soup Mix,Instant soup mix,2017-04-18,600,"[{'Name': 'Energy', 'Value': '151.8 kcal'}, {'Name': 'Carbohydrates', 'Value': '18.8 g'}, {'Name': 'Protein', 'Value': '2.2 g'}, {'Name': 'Fat', '",Yes,Flexible Pouch
+Crispy Savoury Rice Snack,Rice,1986-09-24,180,Nutritional information per 100 g,Complies with all food safety standards,Paper
+Sugar Free Grape Syrup (1250ml),Sugars,2021-07-03,180,"{'Total fat' : '0.0 g', 'Saturated Fat' : '0.0 g', 'Trans Fat' : '0.0 g', 'Cholesterol' : '0.0 mg', 'Sodium' : '0.0 mg', 'Total Carb",Not Compliant,Plastic Bottle
+Biscuits,Wheat flour,1981-04-01,180,1410/100g,Yes,Paperboard
+Cantonese Fried Rice,Rice,2020-01-27,30,"[{'Attribute': 'Energy (kcal)', 'Value': '460'}, {'Attribute': 'Energy (kJ)', 'Value': '1932'}, {'Attribute': 'Protein (g)', 'Value': '9.6'}, {'Attribute': 'Carbohydr",Yes,Plastic Container
+Khari,Wheat,2021-10-06,90,"[{'Key': 'Energy(Kcal)', 'Value': '356'}, {'Key': 'Carbohydrate(g)', 'Value': '67.1'}, {'Key': 'Total Fat(g)', 'Value': '0.8'}, {'Key': 'Choles",Compliant,Poly bag
+Choco Munch Bites,Chocolate,1948-05-29,390,"['Protein', 'Fat', 'Carbohydrates', 'Cholesterol']",Meets the required safety standards,Flexible Packaging
+Ascot,Rice,1995-02-18,120,"{""carbohydrates"":""79.1"",""calories"":""369"",""protein"":""8.9"",""sugar"":""0.0"",""fat"":""0.4""}",Compliant,Plastic
+Rosemary,Rosemary,2021-01-21,180,"{'Serving Qty': 100.0, 'Serving Size': '100 g', 'Energy': 249.0, 'Protein': 4.2, 'Total Lipid (fat)': 1.6, 'Carbohydr",Approved,Bag
+Cupid's Chocolates,Sugar,1970-05-11,672,Percent Daily Values are based on a 2000 calorie diet\n: 260 calories; fat 10g (15% calories from fat); saturated fat 3g (15% calories from saturated fat); cholesterol 9mg (,Yes,Glass
+Cheese and Onion Crisps,corn,2021-10-21,180,Nutrition Facts,Yes,Stand Up Pouch
+Fresh Roasted Salted Cashew Nuts,Cashew Nuts,1909-11-19,365,Nutrition Facts,Yes,Plastic
+Baked Stuffed Square Burger Patty,Pork,2023-06-07,60,"[{'Name': 'Fat', 'Amount': '16.0', 'Unit': 'g'}, {'Name': 'Saturated fat', 'Amount': '3.7', 'Unit': 'g'}, {'Name': 'Trans Fat', 'Amount': '0.1', 'Unit': '",Compliant,Vacuum Pack
+Coconut milk,Coconut milk,1945-06-22,12,Nutrition Facts,Complies with all food safety regulations,Carton
+Coastal Classic - Crab,Crab,1932-11-28,150,{,Yes,Tray
+Dr Oetker Chocolate Chunk Cookies,chocolate cookies,2020-03-16,222,"{'Calories': 133.0, 'Total Carbohydrate': 20.7, 'Protein': 1.9, 'Total Lipid (fat)': 6.0, 'Cholesterol': 1.0, 'Sodium",Compliant,BAG
